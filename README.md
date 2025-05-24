@@ -24,7 +24,7 @@ Cada pasta contém:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/dominiodev-oficial/dominio-sql.git
    ```
 2. Abra os arquivos `.sql` na pasta da aula correspondente
 3. Execute os comandos no seu ambiente SQL
@@ -32,8 +32,8 @@ Cada pasta contém:
 ## 📫 Contato
 
 Para dúvidas ou sugestões:
-- Email: seuemail@exemplo.com
-- LinkedIn: https://linkedin.com/in/seulinkedin
+- Email: dominiodev.oficial@gmail.com
+- LinkedIn: https://linkedin.com/in/dominiodev
 
 ---
 
